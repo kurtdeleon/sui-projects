@@ -1,0 +1,16 @@
+.pixel-color-picker-icon {
+  opacity: 0;
+  transition: 0.15s;
+}
+
+.Pixel:hover > .pixel-color-picker-icon {
+  opacity: 0.4;
+}
+
+.pixel-color-picker-icon-selected {
+  opacity: 1;
+}
+
+.Pixel {
+  flex: 1;
+}

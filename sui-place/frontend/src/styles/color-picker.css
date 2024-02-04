@@ -1,0 +1,10 @@
+.sketch-picker {
+  width: 188px !important;
+  height: 204px !important;
+  box-shadow: none !important;
+  padding: 0 0.5rem !important;
+}
+
+.Refresh:hover > svg {
+  opacity: 0.75;
+}
